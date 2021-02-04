@@ -26,10 +26,11 @@ float: left;
 <script>
 hi
 var person = "Luke"
-alert("I am Bad");
+alert("Well Done!");
 </script>
 <div class="header pad">
 <p> Red Pandas <p>
 <div class="main-text pad">
 <a href="https://www.redpandanetwork.org">Charity for red pandas<a>
+Hello, This website is under construction, please come back another time. Gosh darn it fred, where is my base 64 encoder? Now I cant decode this: aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhTN3MzdW5XWDltS1ZYemo1dGJSRzJqbm9OVUk1V3RN
 <img src="1.jpg" style="height: 500px; float: right;"/>
