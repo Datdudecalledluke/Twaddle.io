@@ -22,9 +22,7 @@ color: red;
 width: 400px;
 float: left;
 }
-
 </style>
-
 </head>
 <body>
 <script>
@@ -36,5 +34,3 @@ alert("I am Bad");
 <div class="main-text pad">
 <a href="https://www.redpandanetwork.org">Charity for red pandas<a>
 <img src="1.jpg" style="height: 500px; float: right;"/>
-</body>
-</html>
