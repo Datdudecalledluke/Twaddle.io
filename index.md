@@ -19,7 +19,6 @@ text-align: center;
 .main-text {
 background-colour: orange;
 color: red;
-width: 400px;
 float: left;
 }
 </style>
