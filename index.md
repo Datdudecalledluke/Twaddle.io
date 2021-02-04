@@ -24,7 +24,6 @@ float: left;
 }
 </style>
 </head>
-<body>
 <script>
 var person = "Luke"
 alert("I am Bad");
