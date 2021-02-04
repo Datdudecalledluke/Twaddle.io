@@ -1,4 +1,3 @@
-<!Doctype html>
 <html>
 <head>
 <title>Red Pandas
@@ -34,11 +33,8 @@ alert("I am Bad");
 </script>
 <div class="header pad">
 <p> Red Pandas <p>
-</div>
 <div class="main-text pad">
 <a href="https://www.redpandanetwork.org">Charity for red pandas<a>
-</div>
 <img src="1.jpg" style="height: 500px; float: right;"/>
-</div>
 </body>
 </html>
