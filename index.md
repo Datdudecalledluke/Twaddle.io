@@ -23,8 +23,9 @@ float: left;
 }
 </style>
 </head>
+<p>Hello, This website is under construction, please come back another time. Gosh darn it fred, where is my base 64 encoder? Now I cant decode this: aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhTN3MzdW5XWDltS1ZYemo1dGJSRzJqbm9OVUk1V3RN</p>
 <script>
-hi
+hello, snooping are we?
 var person = "Luke"
 alert("Well Done!");
 </script>
@@ -32,5 +33,4 @@ alert("Well Done!");
 <p> Red Pandas <p>
 <div class="main-text pad">
 <a href="https://www.redpandanetwork.org">Charity for red pandas<a>
-Hello, This website is under construction, please come back another time. Gosh darn it fred, where is my base 64 encoder? Now I cant decode this: aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWhTN3MzdW5XWDltS1ZYemo1dGJSRzJqbm9OVUk1V3RN
 <img src="1.jpg" style="height: 500px; float: right;"/>
