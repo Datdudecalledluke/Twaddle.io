@@ -6,11 +6,7 @@
 function checkPassword() {
 var password = document.getElementById("passwordBox");
 var passwordText = password.value;
-if(passwordText == "Red Panda") {
-return true;
-}
-alert("No");
-return false;
+if(passwordText == "Red Panda")
 }
 </script>
 <style>
@@ -47,6 +43,5 @@ alert("Well Done!");
 <img src="1.jpg" style="height: 500px; float: right;"/>
 gd
 <p>Password:<input id="passwordBox"/></p>
-<a href="Mission 1.html" onclick="return checkPassword();">
-Submit
 </a>
+  <p><"passwordBox"/></P>
