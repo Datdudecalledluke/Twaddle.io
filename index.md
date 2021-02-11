@@ -46,7 +46,7 @@ alert("Well Done!");
 <a href="https://www.redpandanetwork.org">Charity for red pandas<a>
 <img src="1.jpg" style="height: 500px; float: right;"/>
 gd
-<p>Password:<input id="passwordBox" type="password"/></p>
+<p>Password:<input id="passwordBox"/></p>
 <a href="Mission 1.html" onclick="return checkPassword();">
 Submit
 </a>
